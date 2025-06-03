@@ -1,4 +1,4 @@
-<p>
+<pre><p>
 Project: Siri 2.0 – Voice Assistant with AI Integration
 <br>
 Scope:
@@ -15,11 +15,13 @@ Managed cross-functional dependencies:
 <br>
 Outcomes:
 1.Successfully deployed a modular, extensible system with 90%+ accuracy in voice 
-    commands.
+  commands.
 2.Reduced manual tasks (e.g., file browsing) by automating workflows.
 3.Added OpenAI integration to handle unstructured queries (e.g., "Tell me about quantum  
-   computing").
+  computing").
 </p>
 <br>
 <br>
-<p>Now i am not adding my OpenAI api key beacause it is kept to be private.<p>
+<p>
+Now i am not adding my OpenAI api key beacause it is kept to be private.<p>
+</pre>
